@@ -1,11 +1,28 @@
-<div align="center">
-  <a href="https://github.com/bmoraes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bmoraes&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmoraes&layout=compact&langs_count=7&theme=nord"/>
+# 👋 Boas vindas ao meu perfil !!
+✌️ Meu nome é **Bruno**, estudante iniciante de Front-End. <br>
+🎓 Formado em Analise e Desenvolvimento de Sistemas pela UNINASSAU. <br>
+🤝 Aprendendo **HTML** | **CSS** | **JavaScript** e procurando oportunidades de trabalho.
+
+ - Onde me encontrar: <br>
+ 
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+## 📘 Atualmente estudando:
+
+<div align = "center">
+  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+<div align = "center">
+    
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bmoraes&show_icons=true&count_private=true&hide_border=true&title_color=C9D1D9&icon_color=58A6FF&text_color=c9d1d9&bg_color=0D1117" alt="Bruno Moraes github stats" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmoraes&layout=compact&hide_border=true&title_color=C9D1D9&text_color=58A6FF&bg_color=0D1117" />
+
+ 
 </div>
