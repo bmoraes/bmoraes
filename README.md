@@ -3,9 +3,13 @@
 🎓 Formado em Analise e Desenvolvimento de Sistemas pela UNINASSAU. <br>
 🤝 Aprendendo **HTML** | **CSS** | **JavaScript** e procurando oportunidades de trabalho.
 
- - Onde me encontrar: <br>
+<div align = "center">
+
+ ### Onde me encontrar: <br>
  
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+</div>
 
 ## 📘 Atualmente estudando:
 
